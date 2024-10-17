@@ -9,5 +9,6 @@
 1. Download the template_setup.zip
 [Download](https://github.com/eliezerBrasilian/jsf-template/releases/download/v1/template_setup.zip)
 2. Extract it
-3. Open the folder extracted and click on the exe.bat if you are using Windows or on exe.sh if you are using Mac or Linux.
-4. Then import your project into your IDE
+3. Open the folder extracted and click on the exe file (a jsfapp project will be created) 
+4. Then import the jsfapp project into your IDE
+5. Run it 
