@@ -32,7 +32,10 @@ public class JsfTemplateDownloader {
         }
 
         System.out.println("Extracting Template...");
-        if (!extractZip(new File(ZIP_FILE_NAME), new File(OUTPUT_DIR))) {
+
+        var currentDirectory = System.getProperty("user.dir");
+
+        if (!extractZip(new File(ZIP_FILE_NAME), new File(currentDirectory))) {
             System.out.println("Error extracting template.");
             System.exit(1);
         }
