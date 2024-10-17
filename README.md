@@ -5,6 +5,7 @@
 <p>The project will come with <strong>jsf-impl</strong> and <strong>jsf-api</strong> dependencies already setup, you can check it out in pom.xml</p>
 
 <h3>How to use</h3>
+
 1. Download the template_setup.zip
 [Download](https://github.com/eliezerBrasilian/jsf-template/releases/download/v1/template_setup.zip)
 2. Extract it
